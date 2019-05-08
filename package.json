@@ -1,0 +1,23 @@
+{
+  "name": "sandbox-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexCherba/sandbox-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexCherba/sandbox-node/issues"
+  },
+  "homepage": "https://github.com/AlexCherba/sandbox-node#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
